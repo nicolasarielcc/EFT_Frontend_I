@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nombre": "The Legend of Zelda: Breath of the Wild",
+    "categoria": "Aventura",
+    "precio": 49990,
+    "descripcion": "Explora el vasto reino de Hyrule en una de las aventuras de mundo abierto más aclamadas de la historia.",
+    "imagen": "img/zelda-botw.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Minecraft",
+    "categoria": "Aventura",
+    "precio": 24990,
+    "descripcion": "Construye, explora y sobrevive en un mundo infinito de bloques. Diversión sin límites para todas las edades.",
+    "imagen": "img/minecraft.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Mario Kart 8 Deluxe",
+    "categoria": "Carreras",
+    "precio": 39990,
+    "descripcion": "Competición de karts frenética y colorida, perfecta para jugar solo o con amigos.",
+    "imagen": "img/mario-kart.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Gran Turismo 7",
+    "categoria": "Carreras",
+    "precio": 59990,
+    "descripcion": "La simulación de conducción más realista: más de 400 coches y circuitos legendarios.",
+    "imagen": "img/gran-turismo.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Call of Duty: Modern Warfare",
+    "categoria": "Shooter",
+    "precio": 54990,
+    "descripcion": "Acción militar de primera persona con campaña intensa y multijugador competitivo.",
+    "imagen": "img/call-of-duty.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "Overwatch 2",
+    "categoria": "Shooter",
+    "precio": 32990,
+    "descripcion": "Equipos de héroes únicos se enfrentan en combates tácticos 5 contra 5.",
+    "imagen": "img/overwatch.svg"
+  },
+  {
+    "id": 7,
+    "nombre": "EA Sports FC 24",
+    "categoria": "Deportes",
+    "precio": 44990,
+    "descripcion": "El simulador de fútbol más completo, con los mejores equipos y modos en línea.",
+    "imagen": "img/fifa.svg"
+  },
+  {
+    "id": 8,
+    "nombre": "NBA 2K24",
+    "categoria": "Deportes",
+    "precio": 49990,
+    "descripcion": "Vive el baloncesto profesional con gráficos de última generación y modo carrera.",
+    "imagen": "img/nba2k.svg"
+  },
+  {
+    "id": 9,
+    "nombre": "The Witcher 3: Wild Hunt",
+    "categoria": "RPG",
+    "precio": 34990,
+    "descripcion": "Rol de mundo abierto con una historia profunda, opciones con consecuencias y gigantescos reinos por explorar.",
+    "imagen": "img/witcher.svg"
+  },
+  {
+    "id": 10,
+    "nombre": "Elden Ring",
+    "categoria": "RPG",
+    "precio": 59990,
+    "descripcion": "El aclamado RPG de acción de FromSoftware, con un mundo abierto desafiante y fascinante.",
+    "imagen": "img/elden-ring.svg"
+  },
+  {
+    "id": 11,
+    "nombre": "Age of Empires IV",
+    "categoria": "Estrategia",
+    "precio": 29990,
+    "descripcion": "Estrategia en tiempo real que reconstruye épicas batallas históricas de la Edad Media.",
+    "imagen": "img/age-of-empires.svg"
+  },
+  {
+    "id": 12,
+    "nombre": "Civilization VI",
+    "categoria": "Estrategia",
+    "precio": 19990,
+    "descripcion": "Guía tu civilización desde la Edad de Piedra hasta la era espacial en este clásico por turnos.",
+    "imagen": "img/civilization.svg"
+  }
+]
