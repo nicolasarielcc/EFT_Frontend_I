@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4dabf7"/>
+      <stop offset="100%" stop-color="#123b5e"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="560" fill="url(#bg)"/>
+  <rect width="400" height="560" fill="url(#grid)"/>
+  <rect x="24" y="24" width="352" height="512" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="3" rx="12"/>
+  <text x="200.0" y="490" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle" opacity="0.95">NBA 2K</text>
+  <text x="200.0" y="530" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" text-anchor="middle" opacity="0.85">Deportes</text>
+  <circle cx="200.0" cy="260.0" r="95" fill="#000000" fill-opacity="0.25"/>
+  <text x="200.0" y="300.0" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="#ffffff" text-anchor="middle">N2</text>
+</svg>
